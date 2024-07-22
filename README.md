@@ -1,11 +1,11 @@
 1.This is only for Educational Purpose
 
+2.This USES ISTOCK Library
 
+3.You Know The Drill.
 
-2.You Know The Drill.
+4.First copy both these files in to C:/xampp/htdocs.
 
-3.First copy both these files in to C:/xampp/htdocs.
+5.Then start the apache server.
 
-4.Then start the apache server.
-
-5.Got to the URL "(http://localhost/webpage/)"
+6.Got to the URL "(http://localhost/webpage/)"
