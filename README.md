@@ -1,11 +1,11 @@
-This is only for Educational Purpose
+1.This is only for Educational Purpose
 
 
 
-You Know The Drill.
+2.You Know The Drill.
 
-First copy both these files in to C:/xampp/htdocs.
+3.First copy both these files in to C:/xampp/htdocs.
 
-Then start the apache server.
+4.Then start the apache server.
 
-Got to the URL "(http://localhost/webpage/)"
+5.Got to the URL "(http://localhost/webpage/)"
